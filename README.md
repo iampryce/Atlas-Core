@@ -31,3 +31,8 @@ npm start
 # Added Files
 
 ![Added Files](image-2.png)
+
+# Branching 
+![Created a branch](image-3.png)
+
+![New branch](image-4.png)
