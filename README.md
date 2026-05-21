@@ -36,3 +36,9 @@ npm start
 ![Created a branch](image-3.png)
 
 ![New branch](image-4.png)
+
+# Branch Pull Requests
+
+![Pull Request](image-5.png)
+
+![Merging PR](image-6.png)
