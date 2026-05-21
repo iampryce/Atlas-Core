@@ -21,4 +21,9 @@ npm start
 
 # Setups
 
+# Git user tracking
+
  ![git init & Creds Config](image.png)
+
+# Added Project app folders
+![Added Project app folders](image-1.png)
