@@ -27,3 +27,7 @@ npm start
 
 # Added Project app folders
 ![Added Project app folders](image-1.png)
+
+# Added Files
+
+![Added Files](image-2.png)
